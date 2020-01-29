@@ -1,6 +1,6 @@
-# _Boilerplate Website_
+# _Sample Bank Account website_
 
-#### _This site comes with the all basic parts to get you started making a single page website fast. | Jan 24. 2020_
+#### _This site uses objects to make a new account and allow a user to make deposits and withdrawals. | Jan 28. 2020_
 
 #### By _**Dusty McCord**_
 [link to demo site](https://dustatron.github.io/boilerplate-simple-website/)
